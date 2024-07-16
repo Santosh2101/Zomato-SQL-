@@ -105,6 +105,7 @@ SELECT * FROM (
     ) g
 ) h
 WHERE h.Rnk = 1;
+
 ![image](https://github.com/user-attachments/assets/c2f4c57a-e97c-4528-b48d-d1fe8af3095b)
 
 
